@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Fotoğraf Kolaj</string>
+    <string name="foto_raf_kolaj_uygulamasi">FOTOĞRAF KOLAJ UYGULAMASI</string>
+    <string name="kolaj_olu_tur">Kolaj Oluştur</string>
+    <string name="_3x2">3X2</string>
+    <string name="_2x2">2X2</string>
+    <string name="_3x3">3X3</string>
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="foto_raf_se_iniz">Fotoğraf seçiniz</string>
+    <string name="d_zen_se_iniz">Düzen seçiniz</string>
+</resources>

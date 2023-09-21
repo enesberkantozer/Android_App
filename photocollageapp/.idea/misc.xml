@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/enesb/AndroidStudioProjects/photocollageapp/app/src/main/res/layout/activity_fullscreen.xml" value="0.21331521739130435" />
+        <entry key="..\:/Users/enesb/AndroidStudioProjects/photocollageapp/app/src/main/res/layout/activity_hazir_sablon1.xml" value="0.2" />
+        <entry key="..\:/Users/enesb/AndroidStudioProjects/photocollageapp/app/src/main/res/layout/activity_hazir_sablon2.xml" value="0.264" />
+        <entry key="..\:/Users/enesb/AndroidStudioProjects/photocollageapp/app/src/main/res/layout/activity_hazir_sablonlar.xml" value="0.2" />
+        <entry key="..\:/Users/enesb/AndroidStudioProjects/photocollageapp/app/src/main/res/layout/activity_kolaj2x2.xml" value="0.21052631578947367" />
+        <entry key="..\:/Users/enesb/AndroidStudioProjects/photocollageapp/app/src/main/res/layout/activity_kolaj3x2.xml" value="0.21052631578947367" />
+        <entry key="..\:/Users/enesb/AndroidStudioProjects/photocollageapp/app/src/main/res/layout/activity_kolaj3x3.xml" value="0.21052631578947367" />
+        <entry key="..\:/Users/enesb/AndroidStudioProjects/photocollageapp/app/src/main/res/layout/activity_main.xml" value="0.21331521739130435" />
+        <entry key="..\:/Users/enesb/AndroidStudioProjects/photocollageapp/app/src/main/res/layout/activity_main2.xml" value="0.21331521739130435" />
+        <entry key="..\:/Users/enesb/AndroidStudioProjects/photocollageapp/app/src/main/res/layout/activity_main3.xml" value="0.2" />
+        <entry key="..\:/Users/enesb/AndroidStudioProjects/photocollageapp/app/src/main/res/layout/activity_main4.xml" value="0.2" />
+        <entry key="..\:/Users/enesb/AndroidStudioProjects/photocollageapp/app/src/main/res/layout/activity_main5.xml" value="0.21052631578947367" />
+        <entry key="..\:/Users/enesb/AndroidStudioProjects/photocollageapp/app/src/main/res/layout/activity_matrix_secimi.xml" value="0.21052631578947367" />
+        <entry key="..\:/Users/enesb/AndroidStudioProjects/photocollageapp/app/src/main/res/layout/activity_sayfa2.xml" value="0.21052631578947367" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
